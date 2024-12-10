@@ -1,1 +1,3 @@
 # MentorBridge
+Mentor Bridge is a platform designed to connect aspiring learners with experienced mentors across various domains. Users can explore detailed mentor profiles, including expertise areas, and directly book sessions using integrated scheduling links. Once a mentee books a session, they will receive an email notification with the session details, ensuring a smooth and well-coordinated experience. The project aims to foster knowledge sharing and professional growth by providing a seamless interface for mentorship. Built with HTML, CSS, and other modern web technologies, Mentor Bridge is perfect for individuals seeking guidance and career advancement.
+
